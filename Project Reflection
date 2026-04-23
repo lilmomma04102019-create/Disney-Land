@@ -1,0 +1,58 @@
+1. Summary of the Project and the Problem It Solved
+The Redesigning Disneyland project allowed me to build an interactive C++ program that simulates redesigning parts of Disneyland. The problem it solved was organizing multiple user choices and design elements into a functional, menu‑driven program. It showed how programming logic can be used to model creative decision‑making and structure complex information in a clear, user‑friendly way.
+
+2. What I Did Particularly Well
+I did particularly well in organizing the program into readable sections and writing clear, well‑commented code. Each function had a specific purpose, which helped keep the program structured and easy to follow. I also handled user input effectively, making the experience smooth and intuitive.
+
+3. Where I Could Enhance My Code
+There are several areas where I could improve the project:
+
+Reducing repeated logic
+
+Making the program more modular
+
+Adding stronger input validation
+
+Improving error handling
+
+These enhancements would make the code more efficient, secure, and scalable for future updates.
+
+4. Most Challenging Parts and How I Overcame Them
+The most challenging part was managing the different redesign options and keeping the program flow organized. I overcame this by:
+
+Breaking the project into smaller tasks
+
+Testing each part individually
+
+Using debugging tools to trace issues
+
+Reviewing documentation and course examples
+
+This helped me stay organized and solve problems step‑by‑step.
+
+5. Tools and Resources Added to My Support Network
+C++ reference documentation
+
+Debugging tools in my IDE
+
+Online tutorials and programming forums
+
+Course materials and instructor feedback
+
+These resources will continue to support my learning in future projects.
+
+6. Transferable Skills
+This project helped me strengthen several skills that will be valuable in future coursework and professional work:
+
+Writing clean, maintainable code
+
+Breaking down large problems into smaller components
+
+Debugging and testing
+
+Designing user‑friendly program interactions
+
+Applying programming logic to real‑world scenarios
+
+7. How I Made the Program Maintainable, Readable, and Adaptable
+I used clear variable names, consistent formatting, and descriptive comments throughout the code. I separated tasks into functions to keep the program modular and easy to update. By avoiding hard‑coded values and keeping the structure flexible, the program can be expanded with new features or redesign options in the future.
